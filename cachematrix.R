@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions dos
+## functions do
 
 ## Write a short comment describing this function
 
