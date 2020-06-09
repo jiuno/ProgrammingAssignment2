@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do.
+## 
+## Bruno Fernando Alliani
 ## 
 ## This comments are based on the explanation given by Leonard Greski in
 ## "Demystifying makeVector()" in the following link:
